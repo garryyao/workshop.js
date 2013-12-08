@@ -1,0 +1,29 @@
+{
+  "name": "workshopjs",
+  "version": "0.0.0",
+  "main": "lib/workshop.js",
+  "description": "JavaScript workshop based on CLI inquiry",
+  "homepage": "https://github.com/garryyao/workshop.js",
+  "bugs": "https://github.com/garryyao/workshopjs/issues",
+  "author": {
+    "name": "Garry Yao",
+    "email": "yaojun85@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/garryyao/workshopjs"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "dependencies": {
+    "inquirer": "https://github.com/garryyao/Inquirer.js/tarball/master",
+    "glob": "~3.2.7",
+    "grunt": "~0.4.2",
+    "underscore": "~1.5.2",
+    "level": "~0.18.0",
+    "async": "~0.2.9"
+  }
+}
